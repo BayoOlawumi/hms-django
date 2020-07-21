@@ -1,0 +1,11 @@
+{
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
+
+    "[python]": {
+
+    },
+    "python.pythonpath": "C:\\Users\\eBayo\\DjangoPrjV\\HMS_venv\\Scripts\\python",
+    "git.ignoreLimitWarning": true,
+}
